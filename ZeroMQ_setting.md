@@ -18,8 +18,8 @@ class class_name():
 
 	def run(self):
 		self.sim.setStepping(True)
-        self.sim.startSimulation()
-        self.sim.stopSimulation()
+        	self.sim.startSimulation()
+        	self.sim.stopSimulation()
 
 if __name__ == "__main__":
 	class_name = class_name()
