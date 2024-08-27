@@ -1,7 +1,7 @@
 
 ## Forward Kinematics examples
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c09f8228-29c7-4dcb-8ca3-1de7d3988fab/be482311-f7be-4ddb-8aac-aeb776e6a6d1/image.png) | ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c09f8228-29c7-4dcb-8ca3-1de7d3988fab/cb1894a1-3f0a-4873-924a-6d6879eb9826/image.png)
+![image](https://github.com/user-attachments/assets/fd76b25c-01e7-4ee6-8ad1-79a23e829ed2) | ![image](https://github.com/user-attachments/assets/f8f0e328-f7ee-4a98-b555-f4a27800ac89)
 --- | --- |
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c09f8228-29c7-4dcb-8ca3-1de7d3988fab/cc79e7c9-fdc1-4334-b568-fac0615ca733/image.png) | ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c09f8228-29c7-4dcb-8ca3-1de7d3988fab/19807822-19a3-4841-8090-7199590d11e9/image.png)
+![image](https://github.com/user-attachments/assets/1d319b5c-ee3c-41aa-a4ed-39382d878305) | ![image](https://github.com/user-attachments/assets/5fdb5e9c-d748-4a40-bf29-bb4e8b117c56)
 --- | --- |
